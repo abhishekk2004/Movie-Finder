@@ -1,0 +1,14 @@
+{
+  "name": "movie-finder",
+  "version": "1.0.0",
+  "description": "Movie Finder App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
