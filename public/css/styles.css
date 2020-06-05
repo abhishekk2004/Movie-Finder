@@ -103,8 +103,14 @@ li {
   list-style: none;
 }
 
-@media (max-height: 546px) {
+@media (max-width: 546px) {
   .movieImg {
     max-width: 40vw;
+    min-width: 40vw;
+  }
+  
+  .thumbnail {
+    margin-left: 10px;
+    margin-right: 10px;
   }
 }
